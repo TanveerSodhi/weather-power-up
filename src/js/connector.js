@@ -129,7 +129,7 @@ var onBtnClick = function (t, opts) {
   //console.log('Someone clicked the button');
   t.modal({
     // the url to load for the iframe
-    url: 'https://github.com/TanveerSodhi/weather-power-up',
+    url: 'settings.html',
     // optional arguments to be passed to the iframe as query parameters
     // access later with t.arg('text')
     args: { text: 'Hello' },
